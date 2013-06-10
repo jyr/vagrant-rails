@@ -1,3 +1,7 @@
+.*.swp
+.DS_Store
+.vagrant
+
 *.rbc
 *.sassc
 .sass-cache
